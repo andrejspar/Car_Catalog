@@ -1,0 +1,12 @@
+/* Global CSS Reset */
+* {
+  /* Apply the border-box model for consistent sizing */
+  box-sizing: border-box;
+
+  /* Reset margin and padding to zero for all elements */
+  margin: 0;
+  padding: 0;
+
+  /* Set a default font family for the entire document */
+  font-family: Arial, Helvetica, sans-serif;
+}
