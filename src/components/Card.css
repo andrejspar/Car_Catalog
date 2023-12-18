@@ -19,7 +19,7 @@
 /* Styling for Images within Cards */
 .card img {
   width: 100%;
-  height: auto;
+  height: 200px;
 }
 
 /* Styling for Card Content */
@@ -49,4 +49,8 @@
   border-radius: 4px;
   margin-top: 16px;
   color: #fff;
+}
+
+a {
+  margin-right: 5px;
 }
